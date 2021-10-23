@@ -1,6 +1,6 @@
 /*common body css starts*/
 body{
-	font-family: 'Playfair Display', serif;;
+	/*font-family: 'Playfair Display', serif;*/
 	font-size: 16px;
 	font-weight: 400;
 	color: #626262 ;
@@ -10,7 +10,8 @@ body{
 /*common body css ends*/
 /*header css starts*/
 header{
-padding: 25px 0;
+	padding: 25px 0;
+	border-bottom: 1px solid gray;
 }
 .wrapper{
 	width: 90%;
